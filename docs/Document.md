@@ -1,6 +1,6 @@
 # Postal Broker Project
 
-**GitHub Repository:** [https://github.com/MajidAtaei1993/postal_broker](https://github.com/MajidAtaei1993/postal_broker.git)
+**GitHub Repository:** [https://github.com/majidataei-dev/postal_broker](https://github.com/majidataei-dev/postal_broker.git)
 
 ## Project Overview
 This is a full-stack application for managing postal shipments. The backend is built with **Laravel + Inertia.js**, and the frontend uses **Vue.js, Vuetify, and Pinia**. The system supports:
